@@ -1,16 +1,18 @@
 # weather_app_erwan_kurnia
 
-A new Flutter project.
+## Kesimpulan dan Pandangan dalam Penggunaan GitHub dalam Tim
 
-## Getting Started
+GGitHub adalah platform penting dalam pengembangan perangkat lunak tim karena mendukung:
 
-This project is a starting point for a Flutter application.
+Manajemen Versi: Melacak perubahan kode secara detail—siapa, kapan, dan kenapa—untuk mempermudah pemantauan dan debugging.
 
-A few resources to get you started if this is your first Flutter project:
+Kolaborasi Lewat Pull Request: Fitur PR memungkinkan diskusi dan review sebelum penggabungan kode, menjaga kualitas dan mencegah bug.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Strategi Branching: Penggunaan branch untuk fitur/bug mempercepat pengembangan paralel tanpa mengganggu kode utama.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Issue & Project Management: Fitur pelacakan tugas dan integrasi proyek memudahkan manajemen alur kerja dan kolaborasi tim.
+
+Dokumentasi: README.md dan dokumentasi lain menjaga pemahaman bersama dan mempermudah onboarding anggota baru.
+
+Kesimpulan:
+GitHub bukan hanya tempat menyimpan kode, tapi juga alat kolaborasi lengkap yang mendukung pengembangan tim secara efisien dan terstruktur.
